@@ -1,2 +1,5 @@
 # Excel files
 *.xls*
+
+# Folder for local backups during the development process
+Backup
