@@ -1,9 +1,12 @@
 Attribute VB_Name = "mGitHub"
 Sub ExportModulesAndClasses()
 
+'Requirements
+' 1 - The code must export all the modules and class modules to the same folder of the spreadsheet running the code.
+
 'Acceptance Criteria
-' 1 - All modules and classes modules must be exported.
-' 2 - Modules and classes that are in the folder but not in the spreadsheet must not be deleted.
+' 1 - All modules and class modules must be exported.
+' 2 - Modules and classes in the folder but not in the spreadsheet must not be deleted.
 
 Dim fso As Object
 Dim file As Object
@@ -30,3 +33,4 @@ For Each file In ThisWorkbook.VBProject.VBComponents
 Next file
 
 End Sub
+
