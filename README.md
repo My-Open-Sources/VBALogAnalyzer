@@ -17,7 +17,7 @@ The VBA Log Analyzer is a project that allows database administrators and other 
 
 We welcome contributions to the VBA Log Analyzer project! If you're interested in helping out, here's what you need to know:
 
-1. Start by checking out the [project issues page](https://github.com/My-Open-Sources/VBALogAnalyzer/issues) to see if there are any open issues that you can help with. This is a great way to get started and make your first contribution.
+1. Start by checking out the [project issues page](https://github.com/orgs/My-Open-Sources/projects/1/views/1) to see if there are any open issues that you can help with. This is a great way to get started and make your first contribution.
 
 2. Before you start working on an issue, make sure to comment on the issue to let other contributors know that you're working on it. This will help prevent duplication of effort and ensure that everyone is on the same page.
 
